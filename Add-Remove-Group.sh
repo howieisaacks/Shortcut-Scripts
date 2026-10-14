@@ -7,7 +7,7 @@ set -euo pipefail
 ----------------------------------------
 TITLE: Add-Remove from computer group
 VERSION: 1.0
-PURPOSE: Display Dialog to allow entering a group ID and selecting Add or Remove to mange static group membership in Jamf Pro
+PURPOSE: Display Dialog to allow entering a group ID and selecting Add or Remove to manage static group membership in Jamf Pro
 
 5/20/2026 | Howie Canterbury
 ----------------------------------------
