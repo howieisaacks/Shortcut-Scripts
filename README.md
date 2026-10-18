@@ -8,3 +8,9 @@ You need to create a Jamf Pro API client with permission to read and change grou
 
 ![PSSO Status](https://raw.github.com/howieisaacks/Images/main/Add-Remove-Group.png)
 
+
+## Generate 24-character password
+
+This script generates a 24-character password and displays it using Swift Dialog. It's ready for you to copy and paste into whatever you are working on that needs a strong password.
+
+![Generate Password](https://raw.github.com/howieisaacks/Images/main/Gnerate-24-Chracter-Password.png)
